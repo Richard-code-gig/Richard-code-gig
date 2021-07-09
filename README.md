@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Richard-code-gig.
 - 👀 I’m interested in Python, Machine learning and data science in general.
-- 🌱 I’m currently learning ways to combine business analytics and HSE with with data science.
-- 💞️ I’m looking to collaborate on any of the projects I'm writing.
+- 💞️ Collaborate is appreciated.
 - 📫 Follow me on Twitter @Mr_olorunfemi.
 
 <!---
