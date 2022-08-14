@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Richard-code-gig.
-- 👀 I’m interested in Python, Machine learning and data science in general.
+- 👀 I’m interested in Python, DAta engineering, Machine learning and Data science in general.
 - 💞️ Collaboration is appreciated.
 - 📫 Follow me on Twitter @Mr_olorunfemi.
 
